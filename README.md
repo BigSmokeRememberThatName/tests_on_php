@@ -1,6 +1,6 @@
 # tests_on_php
 Система тестирования на PHP.
-
+http://e95082j6.beget.tech/test_on_php/
 Для работы требуется xampp, MySQL-сервер с загруженным бэкапом (dump.sql). 
 
 --работает--
